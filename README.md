@@ -1,1 +1,1 @@
-# loyalty-customevent-api
+# Loyalty Custom Event API
